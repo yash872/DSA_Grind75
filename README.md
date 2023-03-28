@@ -4,7 +4,8 @@ Grind75 Data Structures and Algorithms problems solution in Python ❤
 
 ### Table of Contents
 
-|  No.  |                                           Problem                                                                      |  Topic   | 
+|  No.  |                                           Problem                    |              Solution                           |   Topic   | 
 | ----- | ---------------------------------------------------------------------------------------------------------------------- | -------- |
-|  1    | [Find_the_Duplicate_Number](https://github.com/yash872/PyDsa/blob/main/Array/Find_the_Duplicate_Number.py)             |  Array   |
-|  2    | [Sort_Colors](https://github.com/yash872/PyDsa/blob/main/Array/Sort_Colors.py)                                         |  Array   |
+|  1    | [Find_the_Duplicate_Number](https://leetcode.com/problems/3sum)                | [Solution] 
+                                                                                          (https://github.com/yash872/PyDsa/blob/main/Array/Sort_Colors.py)|  Array   |
+|  2    | [Sort_Colors](https://github.com/yash872/PyDsa/blob/main/Array/Sort_Colors.py) |                                        |  Array   |
